@@ -92,4 +92,4 @@ For issues, questions, or suggestions:
 
 ## Credits
 
-Created by Y
+Created by LaGgIs
